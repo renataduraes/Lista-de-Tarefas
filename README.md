@@ -6,6 +6,7 @@ Projeto simples de uma lista de tarefas desenvolvido para praticar os fundamento
 
 - HTML5
 - JavaScript
+- CSS
 
 ## ✨ Funcionalidades
 
